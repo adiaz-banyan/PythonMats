@@ -16,3 +16,6 @@ def find_percentage(students, passed):
 
 
 print(find_percentage(10, 5))
+
+tests = 'this is just a test of command lining and stuff'
+print(tests)
